@@ -823,6 +823,10 @@ h6,
   font-size: 36px;
 }
 
+#content5-1k .mbr-section-title,
+#content5-1k p {
+  color: #fff;
+}
 #menu-1h .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -890,10 +894,6 @@ h6,
 #menu-1h .close-icon::before,
 #menu-1h .close-icon::after {
   background-color: #ffffff;
-}
-#content5-1k .mbr-section-title,
-#content5-1k p {
-  color: #fff;
 }
 #msg-box5-1l H3 {
   font-size: 36px;
