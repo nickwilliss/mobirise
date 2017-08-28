@@ -501,21 +501,25 @@ h6,
 }
 #header3-7 .mbr-section-title {
   color: #5c5c5c;
+  font-size: 36px;
 }
 #msg-box5-8 P {
   color: #5c5c5c;
 }
 #msg-box5-8 H3 {
   color: #5c5c5c;
+  font-size: 32px;
 }
 #msg-box5-9 H3 {
   color: #5c5c5c;
+  font-size: 32px;
 }
 #msg-box5-9 P {
   color: #5c5c5c;
 }
 #msg-box5-a H3 {
   color: #5c5c5c;
+  font-size: 32px;
 }
 #msg-box5-a P {
   color: #5c5c5c;
@@ -989,12 +993,16 @@ h6,
 #msg-box8-1s .lead {
   color: #ffffff;
 }
+#msg-box8-1s .mbr-section-title {
+  font-size: 46px;
+}
 #header3-1u .mbr-section-title,
 #header3-1u .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1u .mbr-section-title {
   color: #5c5c5c;
+  font-size: 36px;
 }
 #header3-1w .mbr-section-title,
 #header3-1w .mbr-section-subtitle {
@@ -1002,4 +1010,5 @@ h6,
 }
 #header3-1w .mbr-section-title {
   color: #5c5c5c;
+  font-size: 36px;
 }

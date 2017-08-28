@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -192,7 +192,8 @@
               "color": "#5b5b5b"
             },
             ".mbr-section-title": {
-              "color": "#5c5c5c"
+              "color": "#5c5c5c",
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -219,7 +220,8 @@
               "color": "#5c5c5c"
             },
             "H3": {
-              "color": "#5c5c5c"
+              "color": "#5c5c5c",
+              "font-size": "32px"
             }
           },
           "_anchor": "msg-box5-8",
@@ -277,7 +279,8 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#5c5c5c"
+              "color": "#5c5c5c",
+              "font-size": "32px"
             },
             "P": {
               "color": "#5c5c5c"
@@ -338,7 +341,8 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#5c5c5c"
+              "color": "#5c5c5c",
+              "font-size": "32px"
             },
             "P": {
               "color": "#5c5c5c"
@@ -2317,6 +2321,9 @@
             },
             ".lead": {
               "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
             }
           },
           "_params": {
@@ -2353,7 +2360,8 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#5c5c5c"
+              "color": "#5c5c5c",
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -2487,7 +2495,8 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#5c5c5c"
+              "color": "#5c5c5c",
+              "font-size": "36px"
             }
           },
           "_params": {
