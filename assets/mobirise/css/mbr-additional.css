@@ -996,3 +996,10 @@ h6,
 #header3-1u .mbr-section-title {
   color: #5c5c5c;
 }
+#header3-1w .mbr-section-title,
+#header3-1w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1w .mbr-section-title {
+  color: #5c5c5c;
+}

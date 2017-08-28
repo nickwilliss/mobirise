@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 67,
+    "uniqCompNum": 70,
     "versionPublish": "4.2.0"
   },
   "pages": {
@@ -122,7 +122,7 @@
               "src": "@PROJECT_PATH@/assets/images/all-white-with-text-603x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -555,7 +555,7 @@
               "src": "@PROJECT_PATH@/assets/images/all-white-with-text-603x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -991,7 +991,7 @@
               "src": "@PROJECT_PATH@/assets/images/all-white-with-text-603x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1768,7 +1768,7 @@
               "src": "@PROJECT_PATH@/assets/images/all-white-with-text-603x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1981,7 +1981,7 @@
               "src": "@PROJECT_PATH@/assets/images/all-white-with-text-603x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2296,7 +2296,7 @@
               "src": "@PROJECT_PATH@/assets/images/all-white-with-text-603x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2326,7 +2326,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2336,7 +2336,7 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.6"
           },
           "title": "Properties Sold 2016",
           "text": "Below is a brief list of homes sold in Westlake Village, Agoura Hills, Thousand Oaks, Oak Park, Newbury Park, Moorpark, Los Angeles and other surrounding areas.",
@@ -2357,7 +2357,7 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
@@ -2377,7 +2377,7 @@
             "fullWidth": false,
             "spacing": "1",
             "paddingTop": "2",
-            "paddingBottom": 4,
+            "paddingBottom": "1",
             "filterBgColor": false,
             "bgColor": "fff",
             "showText": true,
@@ -2480,6 +2480,118 @@
           "allItem": "All",
           "_name": "gallery2",
           "_anchor": "gallery2-1t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#5c5c5c"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Thousand Oaks",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1w"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "filterBgColor": true,
+            "bgColor": "#ffffff",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/calletulipan-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calletulipan-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "905 Calle Tulipan $548,000",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/sapra-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sapra-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "2937 Sapra St. $1,044,000",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/brightstar-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/brightstar-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "952 Bright Star Circle $907,000",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/callecastrano-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/callecastrano-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "1232 Calle Castrano $659,000",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/elcerrito-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/elcerrito-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "1643 El Cerrito $1,500,000",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/rush-1048x737.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rush-1048x737-800x562.jpg",
+                "alt": "",
+                "caption": "1871 Rush Circle $850,000",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-1x"
         },
         {
           "_params": {
