@@ -165,7 +165,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -181,7 +181,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Kaufman Real Estate Group</span>",
           "text": "Top Producing Real Estate Group In Westlake Village",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#header3-7\" data-toolbar=\"-mbrBtnMove\">LISTINGS</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LIST YOUR HOME</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header3-7\" data-toolbar=\"-mbrBtnMove\">LISTINGS</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LIST YOUR HOME</a>"
         },
         {
           "_styles": {
