@@ -2320,10 +2320,19 @@ body {
 .cid-qwX2rPD5go {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #333333;
+  background-image: url("../../../assets/images/12953-bloomfield-st-studio-print-001-44-bloomfield-3202x2400-300dpi-2000x1499.jpg");
+}
+.cid-qx0PcatdWf {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qx0PcatdWf .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
 }
 .cid-qwYww6HUUW {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -2336,6 +2345,7 @@ body {
 }
 .cid-qwYww6HUUW .section-text {
   padding: 2rem 0;
+  color: #333333;
 }
 .cid-qwYww6HUUW .inner-container {
   margin: 0 auto;
@@ -2605,7 +2615,7 @@ body {
   background: transparent !important;
 }
 .cid-qwYyGtKGec .image_wrapper {
-  height: 400px;
+  height: 500px;
   width: 100%;
   position: relative;
   display: inline-block;
@@ -2618,7 +2628,7 @@ body {
   text-align: center;
 }
 .cid-qwYyGtKGec .content-slider-wrap {
-  width: 60%;
+  width: 100%;
 }
 .cid-qwWkc02GJV .navbar {
   padding: .5rem 0;
